@@ -2,7 +2,8 @@ import React from 'react';
 import Navbar from "../components/NavBar";
 import HeroImage from '../components/HeroImage';
 import Footer from '../components/Footer';
-import Work from "../components/Work"
+import Work from "../components/Work";
+import Form from "../components/Form"
     
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Navbar />
             <HeroImage />
             <Work/>
+            <Form />
             <Footer />
         </div>
 

@@ -29,10 +29,10 @@ const Footer = () => {
 
                 </div>
                 <div className="right">
-                    <h4>About the Owner:-</h4>
+                     <h4>About the Owner:-</h4>
                     <p>I am committed to staying at the forefront of the ever-evolving tech landscape.
                         With a strong sense of creativity and a determination to make a difference, I eagerly embrace challenges and look forward to making a meaningful impact in the world of software development.
-                    </p>
+                    </p> 
                     <div className="social">
                         <Link to='www.linkedin.com/in/yash-parmar1073'>
                             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
